@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-07T16:04:11 IST" name="Suite" finished-at="2023-09-07T16:04:42 IST" duration-ms="30894">
+    <groups>
+    </groups>
+    <test started-at="2023-09-07T16:04:11 IST" name="Test" finished-at="2023-09-07T16:04:42 IST" duration-ms="30894">
+      <class name="MultiTestScenario.AgainMultitest">
+        <test-method signature="Test4()[pri:0, instance:MultiTestScenario.AgainMultitest@618425b5]" started-at="2023-09-07T16:04:41 IST" name="Test4" finished-at="2023-09-07T16:04:42 IST" duration-ms="872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+      </class> <!-- MultiTestScenario.AgainMultitest -->
+      <class name="MultiTestScenario.MultiTest">
+        <test-method is-config="true" signature="Initalization()[pri:0, instance:MultiTestScenario.MultiTest@5acf93bb]" started-at="2023-09-07T16:04:11 IST" name="Initalization" finished-at="2023-09-07T16:04:24 IST" duration-ms="12634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initalization -->
+        <test-method signature="Test1()[pri:0, instance:MultiTestScenario.MultiTest@5acf93bb]" started-at="2023-09-07T16:04:24 IST" name="Test1" finished-at="2023-09-07T16:04:36 IST" duration-ms="11970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method signature="Test2()[pri:0, instance:MultiTestScenario.MultiTest@5acf93bb]" started-at="2023-09-07T16:04:36 IST" name="Test2" finished-at="2023-09-07T16:04:41 IST" duration-ms="5210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="CleanUp()[pri:0, instance:MultiTestScenario.MultiTest@5acf93bb]" started-at="2023-09-07T16:04:41 IST" name="CleanUp" finished-at="2023-09-07T16:04:41 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CleanUp -->
+      </class> <!-- MultiTestScenario.MultiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
